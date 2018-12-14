@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Знакомство с GitHub");
             Console.WriteLine("Проверка изменения на сервере");
+            Console.ReadLine();
         }
     }
 }
